@@ -4,7 +4,7 @@
     "occupation":"Entreprenuerial Software Developer",
     "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
     "image":"profilepic.jpg",
-    "bio":"With 2x Computer Science degrees as a foundation, I've worked on building software systems for IoT, law, healthcare, social media, transport tech, cannabis and restaurant industries and currently work as the lead dev for a blockchain startup, using web development as a vehicle to explore specialized domains. My expertise lies in entrepreneurial web development with a keen interest in contributing to high impact products that need to scale.",
+    "bio":"With 3x Computer Science degrees as a foundation, I've worked on building software systems for IoT, law, healthcare, social media, transport tech, blockchain, localization and restaurant industries and currently work as a Software Developer for a Mortgage tech startup, using web development as a vehicle to explore specialized domains. My expertise lies in entrepreneurial web development with a keen interest in contributing to high impact products that need to scale.",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "rohstar@gmail.com",
     "phone": "555-555-5555",
@@ -18,24 +18,9 @@
     "resumedownload":"#",
     "social":[
       {
-        "name":"facebook",
-        "url":"http://facebook.com/rohstar7",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com/rohstar",
-        "className":"fa fa-twitter"
-      },
-      {
         "name":"linkedin",
         "url":"https://www.linkedin.com/in/rohanmaheshwari/",
         "className":"fa fa-linkedin"
-      },
-      {
-        "name":"instagram",
-        "url":"http://instagram.com/rohstar",
-        "className":"fa fa-instagram"
       },
       {
         "name":"github",
@@ -47,6 +32,11 @@
   "resume":{
     "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
     "education":[
+      {
+        "school":"Cornell University",
+        "degree":"Graduate Certificate, Machine Learning",
+        "graduated":"2019"
+      },
       {
         "school":"Fairleigh Dickinson University",
         "degree":"Masters, Computer Science",
@@ -60,9 +50,21 @@
     ],
     "work":[
       {
+        "company":"Better",
+        "title":"Software Developer",
+        "years":"May 2020 - present",
+        "description":"Stack: Python (Flask), JavaScript (Typescript, React, Ember), AWS"
+      },
+      {
+        "company":"Rengen Labs",
+        "title":"Senior Developer",
+        "years":"Oct 2017 - April 2019",
+        "description":"Stack: PHP (Laravel), Javascript, Python, Linux, AWS. - Migrated legacy codebase to Laravel, Python microservices. Frontend in Vue.js / jQuery / Vanilla js. Reported to VP, Product with UI/UX to assist technical product development and system design of the product. Clients included Netflix, Lyft and Stripe - Agile Development Sprints, Kanban"
+      },
+      {
         "company":"Rengen Labs",
         "title":"Lead Developer",
-        "years":"Oct 2017 - Present",
+        "years":"Oct 2017 - April 2019",
         "description":"Full stack development (PHP, JS) and server management (AWS). Worked closely with the product and executive team to implement business ideas into a scalable investment banking platform. Responsibilities included managing the dev team, overlooking stack and architecture, curation of microservices, plan and execute releases and product updates, design technical products."
       },
       {
@@ -84,90 +86,20 @@
         "level":"90%"
       },
       {
-        "name":"Laravel Framework",
+        "name":"Javascript",
         "level":"90%"
-      },
-      {
-        "name":"MySQL",
-        "level":"90%"
-      },
-      {
-        "name":"HTML5",
-        "level":"90%"
-      },
-      {
-        "name":"CSS3",
-        "level":"80%"
-      },
-      {
-        "name":"GIT",
-        "level":"90%"
-      },
-      {
-        "name":"JavaScript",
-        "level":"75%"
-      },
-      {
-        "name":"ReactJs",
-        "level":"75%"
       },
       {
         "name":"Python",
-        "level":"50%"
+        "level":"75%"
       },
       {
-        "name":"Java",
-        "level":"50%"
+        "name":"React Framework",
+        "level":"75%"
       },
       {
         "name":"VueJs",
-        "level":"50%"
-      }
-    ]
-  },
-  "portfolio":{
-    "projects": [
-      {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
-      },
-      {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
-      },
-      {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
-      },
-      {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
-      }
-    ]
-  },
-  "testimonials":{
-    "testimonials":[
-      {
-        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user":"Kareem Abdul Jabbar"
-      },
-      {
-        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
-        "user":"Steve Wozniak... impersonator"
+        "level":"75%"
       }
     ]
   }
